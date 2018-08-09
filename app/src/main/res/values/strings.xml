@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Map Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonText">PLAN</string>
+    <string name="editText_Text">Enter Any Place…</string>
+    <string name="placeNotFound">Place Not Found</string>
+    <string name="placeFound">Place Found</string>
+    <string name="noRouteFound">Route Not Found</string>
+    <string name="getLastLocationError">getLastLocation error (Google reported issue, it happens from time to time). \nYou can restart the app to test this feature. It usually works after several attempts. </string>
+    <string name="JsonError">Google Json error (Google reported issue, it happens from time to time). \nYou can restart the app to test this feature. It usually works after several attempts. </string>
+    <string name="setDest">Matched Destination:</string>
+    <string name="travelMode">Travel Mode:</string>
+    <string name="lastStep">Last Step</string>
+    <string name="nextStep">Next Step</string>
+    <string name="track">Track Me Now</string>
+    <string name="currentStepStr">Current Step: </string>
+    <string name="currentStepStr0"> </string>
+    <string name="expectedTime">Expected Time: </string>
+    <string name="Distance">Distance: </string>
+</resources>
